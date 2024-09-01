@@ -1,6 +1,5 @@
-package com.example.userservice.services.Impl;
+package com.example.userservice.services.impl;
 
-import com.example.userservice.dto.UserDTO;
 import com.example.userservice.handlers.NotFoundException;
 import com.example.userservice.models.UserEntity;
 import com.example.userservice.repositories.UserEntityRepository;

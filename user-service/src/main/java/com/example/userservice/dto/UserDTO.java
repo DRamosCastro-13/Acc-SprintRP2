@@ -1,8 +1,9 @@
 package com.example.userservice.dto;
 
 import com.example.userservice.models.UserEntity;
+import lombok.Data;
 import reactor.core.publisher.Mono;
-
+@Data
 public class UserDTO {
 
     private Long id;
